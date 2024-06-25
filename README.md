@@ -1,3 +1,3 @@
 # EE331
 
-HW & Project file achive
+HW & Project file archive
